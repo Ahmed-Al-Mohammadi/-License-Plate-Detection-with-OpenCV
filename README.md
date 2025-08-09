@@ -1,1 +1,1 @@
-"# -License-Plate-Detection-with-OpenCV" 
+License-Plate-Detection-with-OpenCV
